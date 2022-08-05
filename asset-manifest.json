@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/favoriteFruitSimpleApp/static/css/main.523f09c5.chunk.css",
+    "main.js": "/favoriteFruitSimpleApp/static/js/main.a16e25b0.chunk.js",
+    "main.js.map": "/favoriteFruitSimpleApp/static/js/main.a16e25b0.chunk.js.map",
+    "runtime-main.js": "/favoriteFruitSimpleApp/static/js/runtime-main.139e1bd6.js",
+    "runtime-main.js.map": "/favoriteFruitSimpleApp/static/js/runtime-main.139e1bd6.js.map",
+    "static/css/2.b2b57b37.chunk.css": "/favoriteFruitSimpleApp/static/css/2.b2b57b37.chunk.css",
+    "static/js/2.6fefe93d.chunk.js": "/favoriteFruitSimpleApp/static/js/2.6fefe93d.chunk.js",
+    "static/js/2.6fefe93d.chunk.js.map": "/favoriteFruitSimpleApp/static/js/2.6fefe93d.chunk.js.map",
+    "index.html": "/favoriteFruitSimpleApp/index.html",
+    "precache-manifest.e839fc2040705d46e8d39ee004c08eb0.js": "/favoriteFruitSimpleApp/precache-manifest.e839fc2040705d46e8d39ee004c08eb0.js",
+    "service-worker.js": "/favoriteFruitSimpleApp/service-worker.js",
+    "static/css/2.b2b57b37.chunk.css.map": "/favoriteFruitSimpleApp/static/css/2.b2b57b37.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/favoriteFruitSimpleApp/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.6fefe93d.chunk.js.LICENSE.txt": "/favoriteFruitSimpleApp/static/js/2.6fefe93d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/favoriteFruitSimpleApp/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.139e1bd6.js",
+    "static/css/2.b2b57b37.chunk.css",
+    "static/js/2.6fefe93d.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.a16e25b0.chunk.js"
+  ]
+}
